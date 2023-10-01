@@ -1,6 +1,8 @@
 # Hacktoberfest2023-Python-Projects
 
-Hacktoberfest2023-Python-Projects is a Python Projects library made by Open-Source Enthusiast. Feel free to create a new file, and do not hesitate to pull your code, the most important thing is that the file name here must match your nickname so that the file does not conflict with other people.
+![hf10_horz_scl_rgb](https://github.com/JosephLahiru/Hacktoberfest2023-Python-Projects/assets/44818405/cb6e5391-6371-4714-9e17-da11c823a664)
+
+Hacktoberfest2023-Python-Projects is a Python Projects library made by Open-Source Enthusiast. Feel free to create a new file, and do not hesitate to pull your code, the most important thing is that the file name here must match your nickname so that the file does not conflict with other people. If you have multiple project files just make a folder in your nickname and add those files there.
 
 ## Contributing
 Contributions are what makes the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -19,3 +21,5 @@ If you find this project useful, you can show your appreciation by giving it a s
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+![hf10_banner_sponsors_1032x600](https://github.com/JosephLahiru/Hacktoberfest2023-Python-Projects/assets/44818405/e316867f-a07b-4c2f-8440-c4f49e1054c1)
