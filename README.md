@@ -10,7 +10,7 @@ Contributions are what makes the open-source community such an amazing place to 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 
 1. Fork the Project
-2. Clone your Repository (`git clone https://github.com/JosephLahiru/Hacktoberfest2023-Python-Projects.git`)
+2. Clone your Repository (`git clone https://github.com/<your-username>/Hacktoberfest2023-Python-Projects.git`)
 3. Create your Feature Branch (`git checkout -b feature/amazing_feature`)
 4. Commit your Changes (`git commit -m 'Add some amazing_feature'`)
 5. Push to the Branch (`git push origin feature/amazing_feature`)
